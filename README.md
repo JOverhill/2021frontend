@@ -1,0 +1,1 @@
+This is a learning project made by following a tutorial. However I used zero copy-pasting, my purpose was to learn and digest as much as possible. html, css, scss or sass and javascript.
